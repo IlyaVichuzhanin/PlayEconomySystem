@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Play.Catalog.Service.Models;
-using Play.Catalog.Service.Models.DTOs;
+using Play.Catalog.Service.Models.DTOs.Items;
 
 namespace Play.Catalog.Service.Data
 {
