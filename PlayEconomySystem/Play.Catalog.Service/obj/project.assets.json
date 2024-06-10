@@ -3098,9 +3098,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PlayEconomySystem\\PlayEconomySystem\\PlayEconomySystem\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-      "projectName": "Play.Catalog.Service",
-      "projectPath": "D:\\PlayEconomySystem\\PlayEconomySystem\\PlayEconomySystem\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+      "projectUniqueName": "D:\\PlayEconomySystem\\PlayEconomySystem\\PlayEconomySystem\\Play.Catalog.Service\\Mango.Services.CouponAPI.csproj",
+      "projectName": "Mango.Services.CouponAPI",
+      "projectPath": "D:\\PlayEconomySystem\\PlayEconomySystem\\PlayEconomySystem\\Play.Catalog.Service\\Mango.Services.CouponAPI.csproj",
       "packagesPath": "C:\\Users\\VychuzhaninIA\\.nuget\\packages\\",
       "outputPath": "D:\\PlayEconomySystem\\PlayEconomySystem\\PlayEconomySystem\\Play.Catalog.Service\\obj\\",
       "projectStyle": "PackageReference",

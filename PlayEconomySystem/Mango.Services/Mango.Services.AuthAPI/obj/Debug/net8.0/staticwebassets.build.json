@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "cLcDRq4LRA/XodOEowNPMq+9gUQIUvtP0uPpEcH1z7M=",
+  "Source": "Mango.Services.AuthAPI",
+  "BasePath": "_content/Mango.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\PlayEconomySystem\\PlayEconomySystem\\PlayEconomySystem\\Mango.Services\\Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj",
+      "Version": 2,
+      "Source": "Mango.Services.CouponAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
